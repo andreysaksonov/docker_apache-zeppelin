@@ -1,0 +1,1 @@
+docker build -t andreysaksonov/apache-zeppelin:latest .
